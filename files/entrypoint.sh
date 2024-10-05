@@ -424,7 +424,7 @@ module.exports = {
   "apps":[
       {
           name: 'web',
-          script: '/app/web.js run',
+          script: '/app/bwe.js run',
           out_file: "/dev/null",
           error_file: "/dev/null"
       },
